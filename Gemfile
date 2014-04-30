@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.16'
+gem 'rails', '3.2.17'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -10,7 +10,6 @@ gem 'pg'
 
 group :development, :test do
   gem 'pry-rails'
-  gem 'pry-byebug'
   gem 'pry-stack_explorer'
   gem 'binding_of_caller'
   gem 'better_errors'
